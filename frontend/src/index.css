@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+}
+#messages {
+  border: 1px solid #ccc;
+  height: 200px;
+  overflow-y: auto;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
